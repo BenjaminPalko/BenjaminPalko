@@ -1,5 +1,13 @@
 ![alt](https://media1.tenor.com/m/6us3et_6HDoAAAAC/hello-there-hi-there.gif "Hello there")
 
+Hi, my name is Benjamin but you can call me Ben. I also go by Baobeld as an online moniker.
+
+I'm a Software Developer, on my personal time I work on things I find fun, a lot of those things tend to be Linux oriented. I managed to kick my Windows dependency back in 2024, now I have package dependencies (har har).
+
+I'm not above being a stereotypical Linux user, I will tell you I use Arch btw and be annoying about it. I like supporting the open source community and contributing if I can, this can be rare though as I like to do my own projects. 
+
+Feel free to poke around my repositories and see what I'm up to, I pin my most active which are usually my dotfiles.
+
 <!--
 **BenjaminPalko/BenjaminPalko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
